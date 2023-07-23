@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+h1 {
+    color: brown;
+    font-size: xx-large;
+}
+
+h2 {
+    color: blueviolet;
+    font-size: x-large;
+}
+
+h3,
+h4 {
+    color: goldenrod;
+    font-style: unset;
+}
+
+ul,
+ol {
+    list-style-position: inside;
+}
+
+.ol-other-style {
+    list-style-position: outside;
+    display: inline-block;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.align-left {
+    text-align: left;
+}
